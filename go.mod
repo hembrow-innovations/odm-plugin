@@ -1,4 +1,4 @@
-module odm-plugin
+module github.com/hembrow-innovations/odm-plugin
 
 go 1.24.5
 
